@@ -1,6 +1,6 @@
 Name : Kolipaka Bhavana
 Id : CT08DS1212
-Domain : Dta Science
+Domain : Data Science
 Duration : May-25 to June-25
 Mentor Name : Sravani Gouni
 Description : Predictive modeling with linear regression involves using historical data to predict future outcomes by fitting a linear equation to the observed data. This statistical method identifies the relationship between a dependent variable and one or more independent variables. By minimizing the sum of the squares of the differences between the observed and predicted values, linear regression provides a model that can be used for forecasting and analyzing trends. It's particularly effective when the relationship between variables is approximately linear, making it a foundational tool in data analysis and machine learning.
